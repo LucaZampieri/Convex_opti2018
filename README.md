@@ -3,7 +3,7 @@ Project for the course of convex opti EPFL
 
 ### About the data
 Food.csv contains the data that we are gonna use for this project.  
-- the cost is in euro/100g and has been invented by a team member
+- the cost is in euro/100g and has been made up by a team member
 - calories are in calories
 - fat, carbs and proteins are in grams
 - taste is a subjective measure going from 0 to 5. It has been assest on one of the groups member
