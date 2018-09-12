@@ -15,3 +15,7 @@ all the informations (except the taste) have can be checked on the following pag
 	- https://www.fatsecret.it/calorie-nutrizione/fiorital/insalata-di-polpo/100g
 
 ### About the authors
+
+* Amendt Maurice
+* Bardi Francesco
+* Zampieri Luca
